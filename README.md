@@ -1,6 +1,5 @@
 # Muhamad Hamze — Cybersécurité & Sécurité des systèmes
 
-**Étudiant M1 Informatique** · Université d'Orléans (parcours ARIAS)
 Candidat M2 Cybersécurité & Informatique Légale — UGA Grenoble
 
 Recherche une **alternance cybersécurité** à partir de sept. 2026
@@ -40,5 +39,5 @@ Recherche une **alternance cybersécurité** à partir de sept. 2026
 ### Wanderly — App mobile géolocalisée
 `Flutter` `Dart` — Authentification par token, validation des entrées, gestion sécurisée de la géolocalisation
 
-- LinkedIn : linkedin.com/in/muhamad-h
+- LinkedIn : https://linkedin.com/in/muhamad-h
 - Email : muhamadnhamzeh@gmail.com
