@@ -18,6 +18,8 @@ Recherche une **alternance cybersécurité** à partir de sept. 2026
 | Cryptographie | Hachage · Chiffrement symétrique/asymétrique |
 | OSINT | Reconnaissance passive · Maltego · Shodan |
 | Développement | Python · PHP · Java · C/C++ · SQL · Flutter |
+| API | Rest · Java (Spring Boot) · GraphQl |
+| DevOps | Docker · Git · Github |
 
 ---
 
